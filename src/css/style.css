@@ -46,3 +46,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.form {
+    background-color: #e8f4f8;
+    padding: 15px;
+    border-left: 4px solid #007acc;
+    margin: 20px 0;   
+}
