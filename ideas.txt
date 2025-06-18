@@ -1,3 +1,11 @@
 # Projects Ideas
 1. Build a simple website
 2. Create a Python calculator
+3. Front-End Website for CLI Country Guessing Game.
+4. QR Code Generator
+5. Chat Bot
+6. Real-Time Chat/Messenger Application (Level: Intermediate)
+7. Travel Booking System (incl. API) (Level: Intermediate)
+8. HTTP Server (Level: Intermediate)
+9. Smart Mirror (incl. Hardware and Software)(Level: Advanced)
+10. Build a Redis (Level: 10x Developer)
