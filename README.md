@@ -11,3 +11,4 @@ This is a practice repository for learning GitHub
 - Created Repositories
 - Cloned them locally
 - Created files via terminal
+- Edited README.md. Then committed and pushed.
