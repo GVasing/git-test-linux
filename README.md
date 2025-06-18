@@ -5,10 +5,11 @@ Test GitHub Repository:
 This is a practice repository for learning GitHub
 
 ## What I'm Learning
-- To be determined
+- Learning git commands
 
 ## My Progress
 - Created Repositories
 - Cloned them locally
 - Created files via terminal
 - Edited README.md. Then committed and pushed.
+- Multiple commits made.
