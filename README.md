@@ -24,3 +24,5 @@ This is a practice repository for learning GitHub
 - Several project ideas added to 'ideas.txt'
 - Added web project structure
 - Learning Git workflow patterns
+- Added HTML and CSS practice project
+- Created multiple pages with navigation
