@@ -1,1 +1,13 @@
 If you are seeing this, it worked
+
+Test GitHub Repository:
+
+This is a practice repository for learning GitHub
+
+## What I'm Learning
+- To be determined
+
+## My Progress
+- Created Repositories
+- Cloned them locally
+- Created files via terminal
