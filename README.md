@@ -22,3 +22,5 @@ This is a practice repository for learning GitHub
 - 'scripts' directory created.
 - 'status.sh' file created.
 - Several project ideas added to 'ideas.txt'
+- Added web project structure
+- Learning Git workflow patterns
