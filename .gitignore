@@ -4,6 +4,16 @@
 # Log files
 logs/
 
+# Temporary files
+temp/
+*.temp
+
+# Backup files
+*.bak
+
+# Draft files
+draft.*
+
 # Local configuration
 *.local
 
