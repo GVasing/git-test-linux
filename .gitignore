@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+
+# Log files
+logs/
+
+# Local configuration
+*.local
+
+# Node modules (for future use)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
