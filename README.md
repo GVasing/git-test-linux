@@ -13,3 +13,5 @@ This is a practice repository for learning GitHub
 - Created files via terminal
 - Edited README.md. Then committed and pushed.
 - Multiple commits made.
+- 'notes.md' file created.
+- 'hello.py' file created.
