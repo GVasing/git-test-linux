@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .welcome-banner {
     background-color: #d4edda;
     border: 1px solid #c3e6cb;
@@ -6,7 +5,8 @@
     padding: 15px;
     border-radius: 5px;
     margin: 20px 0;
-=======
+}
+
 .main-nav {
     background-color: #333;
     padding: 0;
@@ -49,7 +49,6 @@
 
 .nav-menu a:hover {
     color: #007acc;
->>>>>>> feature/navigation-menu
 }
 
 body {
@@ -106,4 +105,16 @@ a:hover {
     padding: 15px;
     border-left: 4px solid #007acc;
     margin: 20px 0;   
+}
+
+.main-footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+.footer-content p {
+    margin: 5px 0;
 }
